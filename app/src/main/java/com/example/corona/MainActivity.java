@@ -61,6 +61,7 @@ public class MainActivity extends AppCompatActivity {
         viewPagerAdapter.AddFragment(new Fragmentstates(),"Country");
         viewPager.setAdapter(viewPagerAdapter);
         tabLayout.setupWithViewPager(viewPager);
+        viewPager.setCurrentItem(1);
 
     }
 

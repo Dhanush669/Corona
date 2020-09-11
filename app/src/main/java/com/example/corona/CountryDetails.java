@@ -7,8 +7,11 @@ import androidx.cardview.widget.CardView;
 import android.content.Intent;
 import android.graphics.Color;
 import android.os.Bundle;
+import android.text.Editable;
+import android.text.TextWatcher;
 import android.view.MenuItem;
 import android.view.View;
+import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -44,6 +47,7 @@ public class CountryDetails extends AppCompatActivity {
             todrecover.setText(Fragmentstates.countrylists.get(positioncountry).getTodrecovered());
             active.setText(Fragmentstates.countrylists.get(positioncountry).getActive());
             critical.setText(Fragmentstates.countrylists.get(positioncountry).getCritical());
+
        if(Integer.parseInt(todcase.getText().toString())>1000){
             iv.setCardBackgroundColor(Color.rgb(255,0,0));
        }

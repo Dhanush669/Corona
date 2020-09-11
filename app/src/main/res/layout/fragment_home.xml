@@ -44,7 +44,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_gravity="center"
+                android:layout_marginTop="30dp"
                 android:text="Any uncertain queries about your health dial our helpline number"
                 android:textColor="#FFFFFF"
                 android:textStyle="bold"
@@ -52,6 +52,17 @@
                 android:layout_marginRight="20dp">
             </TextView>
         </LinearLayout>
+        <!--<TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="140dp"
+            android:layout_marginTop="70dp"
+            android:text="In terms of any mentioned symptoms please approach nearer hospital"
+            android:textColor="#FFFFFF"
+            android:textSize="16dp"
+            android:textStyle="bold"
+            android:layout_marginRight="20dp">
+        </TextView>-->
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -82,7 +93,6 @@
                 android:textSize="20dp"
                 android:layout_marginLeft="40dp"
                 >
-
             </TextView>
             <ImageView
                 android:layout_width="wrap_content"
@@ -91,37 +101,47 @@
                 android:layout_marginLeft="10dp"
                 android:layout_marginTop="2dp"
                 android:src="@drawable/ic_call">
-
             </ImageView>
         </androidx.cardview.widget.CardView>
-        <androidx.cardview.widget.CardView
-            android:layout_width="80dp"
-            android:layout_height="80dp"
-            app:cardBackgroundColor="#ffffff"
-            app:cardCornerRadius="40dp"
-            android:layout_marginLeft="20dp"
-            android:layout_marginTop="270dp">
-            <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:padding="5dp"
-                android:layout_gravity="center"
-                android:src="@drawable/ic_add">
+         <TextView
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:padding="5dp"
+             android:text="Helpline Number"
+             android:textSize="20dp"
+             android:textStyle="bold"
+             android:textColor="#ffffff"
+             android:layout_marginTop="140dp"
+             android:layout_marginLeft="20dp">
+         </TextView>
+         <androidx.cardview.widget.CardView
+             android:layout_width="80dp"
+             android:layout_height="80dp"
+             app:cardBackgroundColor="#ffffff"
+             app:cardCornerRadius="40dp"
+             android:layout_marginLeft="20dp"
+             android:layout_marginTop="270dp">
+             <ImageView
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:padding="5dp"
+                 android:layout_gravity="center"
+                 android:src="@drawable/ic_add">
 
-            </ImageView>
-        </androidx.cardview.widget.CardView>
+             </ImageView>
+         </androidx.cardview.widget.CardView>
 
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="140dp"
-            android:layout_marginTop="280dp"
-            android:text="In terms of any mentioned symptoms please approach nearer hospital"
-            android:textColor="#FFFFFF"
-            android:textSize="16dp"
-            android:textStyle="bold"
-            android:layout_marginRight="20dp">
-        </TextView>
+         <TextView
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_marginLeft="140dp"
+             android:layout_marginTop="280dp"
+             android:text="In terms of any mentioned symptoms please approach nearer hospital"
+             android:textColor="#FFFFFF"
+             android:textSize="16dp"
+             android:textStyle="bold"
+             android:layout_marginRight="20dp">
+         </TextView>
 
         <TextView
             android:layout_width="wrap_content"
