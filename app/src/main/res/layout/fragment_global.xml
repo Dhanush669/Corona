@@ -8,12 +8,12 @@
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        app:cardBackgroundColor="#3A575E">
+        app:cardBackgroundColor="#EDF6ED">
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Global Stats"
-            android:textColor="#ffffff"
+            android:textColor="#618735"
             android:textStyle="bold"
             android:textSize="20dp"
             android:layout_margin="20dp">
@@ -26,7 +26,7 @@
             android:layout_marginEnd="20dp"
             android:layout_marginLeft="20dp"
             android:layout_marginRight="20dp"
-            app:cardBackgroundColor="#3A575E"
+            app:cardBackgroundColor="#659A67"
             app:cardCornerRadius="20dp"
             android:elevation="15dp">
             <org.eazegraph.lib.charts.PieChart
@@ -149,7 +149,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="320dp"
-            app:cardBackgroundColor="#3A575E"
+            app:cardBackgroundColor="#FFE0F6E1"
             android:layout_marginStart="20dp"
             android:layout_marginLeft="20dp"
             android:layout_marginEnd="20dp"
@@ -170,7 +170,7 @@
                         android:padding="10dp"
                         android:textSize="15dp"
                         android:textStyle="bold"
-                        android:textColor="#ffffff"
+                        android:textColor="#151515"
                         android:layout_marginStart="20dp"
                         android:layout_marginLeft="20dp"
                         >
@@ -182,7 +182,7 @@
                         android:padding="10dp"
                         android:textSize="15dp"
                         android:textStyle="bold"
-                        android:textColor="#ffffff"
+                        android:textColor="#151515"
                         android:layout_marginStart="70dp"
                         android:layout_marginLeft="20dp"
                         >
@@ -191,7 +191,7 @@
                 <androidx.cardview.widget.CardView
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    app:cardBackgroundColor="#3A575E"
+                    app:cardBackgroundColor="#E0F6E1"
                     android:layout_marginStart="20dp"
                     android:layout_marginEnd="20dp"
                     android:layout_marginBottom="5dp"
@@ -205,7 +205,7 @@
                         android:textSize="15dp"
                         android:layout_marginStart="15dp"
                         android:textStyle="bold"
-                        android:textColor="#ffffff"
+                        android:textColor="#151515"
                         android:layout_marginLeft="15dp">
                     </TextView>
                     <TextView
@@ -216,7 +216,7 @@
                         android:padding="5dp"
                         android:textSize="15dp"
                         android:textStyle="bold"
-                        android:textColor="#ffffff"
+                        android:textColor="#151515"
                         android:layout_marginStart="170dp"
                         android:layout_marginLeft="20dp"
                         >
@@ -230,7 +230,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="420dp"
-            app:cardBackgroundColor="#3A575E"
+            app:cardBackgroundColor="#FFE0F6E1"
             android:layout_marginStart="20dp"
             android:layout_marginLeft="20dp"
             android:layout_marginEnd="20dp"
@@ -251,7 +251,7 @@
                         android:padding="10dp"
                         android:textSize="15dp"
                         android:textStyle="bold"
-                        android:textColor="#ffffff"
+                        android:textColor="#151515"
                         android:layout_marginStart="20dp"
                         android:layout_marginLeft="20dp"
                         >
@@ -263,7 +263,7 @@
                         android:padding="10dp"
                         android:textSize="15dp"
                         android:textStyle="bold"
-                        android:textColor="#ffffff"
+                        android:textColor="#151515"
                         android:layout_marginStart="62.5dp"
                         android:layout_marginLeft="20dp"
                         >
@@ -272,7 +272,7 @@
                 <androidx.cardview.widget.CardView
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    app:cardBackgroundColor="#3A575E"
+                    app:cardBackgroundColor="#FFE0F6E1"
                     android:layout_marginStart="20dp"
                     android:layout_marginEnd="20dp"
                     android:layout_marginBottom="5dp"
@@ -285,7 +285,7 @@
                         android:padding="5dp"
                         android:textSize="15dp"
                         android:textStyle="bold"
-                        android:textColor="#ffffff"
+                        android:textColor="#151515"
                         android:layout_marginStart="15dp"
                         android:layout_marginLeft="20dp"
                         >
@@ -298,7 +298,7 @@
                         android:padding="5dp"
                         android:textSize="15dp"
                         android:textStyle="bold"
-                        android:textColor="#ffffff"
+                        android:textColor="#151515"
                         android:layout_marginStart="170dp"
                         android:layout_marginLeft="20dp"
                         >
@@ -312,7 +312,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="520dp"
-            app:cardBackgroundColor="#3A575E"
+            app:cardBackgroundColor="#FFE0F6E1"
             android:layout_marginStart="20dp"
             android:layout_marginLeft="20dp"
             android:layout_marginEnd="20dp"
@@ -333,7 +333,7 @@
                         android:padding="10dp"
                         android:textSize="15dp"
                         android:textStyle="bold"
-                        android:textColor="#ffffff"
+                        android:textColor="#151515"
                         android:layout_marginStart="20dp"
                         android:layout_marginLeft="20dp"
                         >
@@ -345,7 +345,7 @@
                         android:padding="10dp"
                         android:textSize="15dp"
                         android:textStyle="bold"
-                        android:textColor="#ffffff"
+                        android:textColor="#151515"
                         android:layout_marginStart="40dp"
                         android:layout_marginLeft="20dp"
                         >
@@ -354,7 +354,7 @@
                 <androidx.cardview.widget.CardView
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    app:cardBackgroundColor="#3A575E"
+                    app:cardBackgroundColor="#FFE0F6E1"
                     android:layout_marginStart="20dp"
                     android:layout_marginEnd="20dp"
                     android:layout_marginBottom="5dp"
@@ -367,7 +367,7 @@
                         android:padding="5dp"
                         android:textSize="15dp"
                         android:textStyle="bold"
-                        android:textColor="#ffffff"
+                        android:textColor="#151515"
                         android:layout_marginStart="15dp"
                         android:layout_marginLeft="20dp"
                         >
@@ -380,7 +380,7 @@
                         android:padding="5dp"
                         android:textSize="15dp"
                         android:textStyle="bold"
-                        android:textColor="#ffffff"
+                        android:textColor="#151515"
                         android:layout_marginStart="177dp"
                         android:layout_marginLeft="20dp"
                         >
@@ -394,7 +394,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="620dp"
-            app:cardBackgroundColor="#3A575E"
+            app:cardBackgroundColor="#FFE0F6E1"
             android:layout_marginStart="20dp"
             android:layout_marginLeft="20dp"
             android:layout_marginEnd="20dp"
@@ -415,7 +415,7 @@
                         android:padding="10dp"
                         android:textSize="15dp"
                         android:textStyle="bold"
-                        android:textColor="#ffffff"
+                        android:textColor="#151515"
                         android:layout_marginStart="20dp"
                         android:layout_marginLeft="20dp"
                         >
@@ -428,7 +428,7 @@
                         android:layout_marginLeft="20dp"
                         android:padding="10dp"
                         android:text="Critical case"
-                        android:textColor="#ffffff"
+                        android:textColor="#151515"
                         android:textSize="15dp"
                         android:textStyle="bold">
 
@@ -437,7 +437,7 @@
                 <androidx.cardview.widget.CardView
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    app:cardBackgroundColor="#3A575E"
+                    app:cardBackgroundColor="#FFE0F6E1"
                     android:layout_marginStart="20dp"
                     android:layout_marginEnd="20dp"
                     android:layout_marginBottom="5dp"
@@ -450,7 +450,7 @@
                         android:padding="5dp"
                         android:textSize="15dp"
                         android:textStyle="bold"
-                        android:textColor="#ffffff"
+                        android:textColor="#151515"
                         android:layout_marginStart="15dp"
                         android:layout_marginLeft="20dp"
                         >
@@ -463,7 +463,7 @@
                         android:padding="5dp"
                         android:textSize="15dp"
                         android:textStyle="bold"
-                        android:textColor="#ffffff"
+                        android:textColor="#151515"
                         android:layout_marginStart="170dp"
                         android:layout_marginLeft="20dp"
                         >
@@ -477,7 +477,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="720dp"
-            app:cardBackgroundColor="#3A575E"
+            app:cardBackgroundColor="#FFE0F6E1"
             android:layout_marginStart="20dp"
             android:layout_marginLeft="20dp"
             android:layout_marginEnd="20dp"
@@ -498,7 +498,7 @@
                         android:padding="10dp"
                         android:textSize="15dp"
                         android:textStyle="bold"
-                        android:textColor="#ffffff"
+                        android:textColor="#151515"
                         android:layout_marginStart="20dp"
                         android:layout_marginLeft="20dp"
                         >
@@ -510,7 +510,7 @@
                         android:padding="10dp"
                         android:textSize="15dp"
                         android:textStyle="bold"
-                        android:textColor="#ffffff"
+                        android:textColor="#151515"
                         android:layout_marginStart="90dp"
                         android:layout_marginLeft="20dp"
                         >
@@ -519,7 +519,7 @@
                 <androidx.cardview.widget.CardView
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    app:cardBackgroundColor="#3A575E"
+                    app:cardBackgroundColor="#FFE0F6E1"
                     android:layout_marginStart="20dp"
                     android:layout_marginEnd="20dp"
                     android:layout_marginBottom="5dp"
@@ -532,7 +532,7 @@
                         android:padding="5dp"
                         android:textSize="15dp"
                         android:textStyle="bold"
-                        android:textColor="#ffffff"
+                        android:textColor="#151515"
                         android:layout_marginStart="10dp"
                         android:layout_marginLeft="20dp"
                         >
@@ -545,7 +545,7 @@
                         android:padding="5dp"
                         android:textSize="15dp"
                         android:textStyle="bold"
-                        android:textColor="#ffffff"
+                        android:textColor="#151515"
                         android:layout_marginStart="150dp"
                         android:layout_marginLeft="20dp"
                         >

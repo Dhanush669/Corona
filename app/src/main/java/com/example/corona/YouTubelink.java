@@ -20,7 +20,7 @@ public class YouTubelink extends YouTubeBaseActivity {
     //static YouTubePlayer.OnInitializedListener onInitializedListener;
     public void clicked(View v){
         //youTubePlayerView.initialize(Youtube.apikey,onInitializedListener);
-        Intent intent=new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.youtube.com/watch?v=9XujhDKBFOA"));
+        Intent intent=new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.youtube.com/watch?v=xTvd7oAEyhs"));
         startActivity(intent);
     }
     public void dail(View view){
