@@ -8,7 +8,7 @@
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        app:cardBackgroundColor="#3A575E"
+        app:cardBackgroundColor="#EDF6ED"
         >
         <LinearLayout
             android:layout_width="wrap_content"
@@ -46,7 +46,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="30dp"
                 android:text="Any uncertain queries about your health dial our helpline number"
-                android:textColor="#FFFFFF"
+                android:textColor="#151515"
                 android:textStyle="bold"
                 android:textSize="16dp"
                 android:layout_marginRight="20dp">
@@ -110,7 +110,7 @@
              android:text="Helpline Number"
              android:textSize="20dp"
              android:textStyle="bold"
-             android:textColor="#ffffff"
+             android:textColor="#151515"
              android:layout_marginTop="140dp"
              android:layout_marginLeft="20dp">
          </TextView>
@@ -137,7 +137,7 @@
              android:layout_marginLeft="140dp"
              android:layout_marginTop="280dp"
              android:text="In terms of any mentioned symptoms please approach nearer hospital"
-             android:textColor="#FFFFFF"
+             android:textColor="#151515"
              android:textSize="16dp"
              android:textStyle="bold"
              android:layout_marginRight="20dp">
@@ -152,7 +152,7 @@
             android:text="Symtoms"
             android:textSize="20dp"
             android:textStyle="bold"
-            android:textColor="#ffffff">
+            android:textColor="#151515">
         </TextView>
         <HorizontalScrollView
             android:layout_width="wrap_content"
@@ -224,7 +224,7 @@
             android:text="Percations"
             android:textSize="20dp"
             android:textStyle="bold"
-            android:textColor="#ffffff">
+            android:textColor="#151515">
         </TextView>
         <HorizontalScrollView
             android:layout_width="wrap_content"
@@ -294,7 +294,7 @@
             android:layout_marginLeft="20dp"
             android:textSize="20dp"
             android:textStyle="bold"
-            android:textColor="#ffffff"
+            android:textColor="#151515"
             android:layout_marginTop="820dp">
         </TextView>
         <androidx.cardview.widget.CardView
@@ -302,7 +302,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="20dp"
             android:layout_marginTop="860dp"
-            app:cardBackgroundColor="#3A575E"
+            app:cardBackgroundColor="#FBE8EF"
             android:layout_marginRight="20dp"
             app:cardCornerRadius="20dp"
             android:padding="10dp">
@@ -319,11 +319,11 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Dr Ashwin Vijay"
+                android:text="Dr. Sushila Kataria"
                 android:layout_marginLeft="180dp"
                 android:textSize="15dp"
                 android:textStyle="bold"
-                android:textColor="#ffffff"
+                android:textColor="#000000"
                 android:layout_marginTop="35dp">
             </TextView>
             <TextView
@@ -333,7 +333,7 @@
                 android:layout_marginLeft="180dp"
                 android:textSize="10dp"
                 android:textStyle="normal"
-                android:textColor="#ffffff"
+                android:textColor="#1E1E1E"
                 android:layout_marginTop="60dp">
             </TextView>
         <Button
@@ -345,7 +345,7 @@
             android:text="Play"
             android:layout_marginTop="100dp"
             android:layout_marginLeft="180dp"
-            android:textColor="#ffffff"
+            android:textColor="#FF5959"
             android:textSize="15dp"
             android:textStyle="bold"
             android:onClick="clicked"

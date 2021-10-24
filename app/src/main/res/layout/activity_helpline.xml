@@ -8,7 +8,7 @@
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        app:cardBackgroundColor="#3A575E">
+        app:cardBackgroundColor="#449E47">
         <ListView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
